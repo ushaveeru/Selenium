@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="chrome-win64">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/chrome-win64" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
